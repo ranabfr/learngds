@@ -1,2 +1,0 @@
-# learngds
-GDS Learning Website.
